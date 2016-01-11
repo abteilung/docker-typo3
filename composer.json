@@ -17,6 +17,10 @@
         {
             "type": "composer",
             "url": "http://composer.typo3.org/"
+        },
+        {
+            "type": "composer",
+            "url": "http://fluidtypo3.github.io/composer-repo/"
         }
     ],
     "require": {
