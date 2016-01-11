@@ -21,6 +21,13 @@
     ],
     "require": {
         "typo3/cms": "^7.6",
-        "typo3-ter/typo3-console": "*"
+        "typo3-ter/typo3-console": "*",
+        "typo3-ter/flux": "^7.3",
+        "fluidbt/fluidbootstraptheme": "2.*",
+        "typo3-ter/fluidcontent": "^4.4",
+        "typo3-ter/fluidpages": "^3.4",
+        "typo3-ter/nc-staticfilecache": "^3.5",
+        "typo3-ter/realurl": "^1.13",
+        "fluidtypo3/builder": "*"
     }
 }
