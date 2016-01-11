@@ -31,7 +31,7 @@
         "typo3-ter/fluidpages": "^3.4",
         "typo3-ter/nc-staticfilecache": "^3.5",
         "typo3-ter/realurl": "^1.13",
-        "fluidbt/fluidbootstraptheme": "2.*",
+        "fluidbt/fluidbootstraptheme": "dev-master",
         "fluidtypo3/builder": "*"
     }
 }
