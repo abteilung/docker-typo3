@@ -19,10 +19,6 @@
             "url": "http://composer.typo3.org/"
         },
         {
-            "type": "composer",
-            "url": "http://fluidtypo3.github.io/composer-repo/"
-        },
-        {
             "type": "git",
             "url": "https://github.com/bootstraptheme-for-typo3/fluidbootstraptheme"
         }
