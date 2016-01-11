@@ -24,7 +24,7 @@
         },
         {
             "type": "git",
-            "url": "https://github.com/Ecodev/fluidbootstraptheme.git"
+            "url": "https://github.com/bootstraptheme-for-typo3/fluidbootstraptheme"
         }
     ],
     "require": {
