@@ -3,14 +3,14 @@ typo3:
   links: 
    - db
   ports:
-   - "80:80"
+   - "80:8080"
   environment:
     DB_NAME: typo3
     DB_USER: admin
-    DB_PASS: "**ChangeMe**"
+    DB_PASS: "dockymocky"
     DB_HOST: "db"
     DB_PORT: "3306"
 db:
-  image: tutum/mysql:5.5
+  image: million12/mariadb
   environment:
-    MYSQL_PASS: "**ChangeMe**"
+    MARIADB_PASS: "my-pass"
