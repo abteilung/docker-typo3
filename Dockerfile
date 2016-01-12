@@ -17,7 +17,7 @@ ADD typo3.php.ini /etc/php5/conf.d/
 
 # Install dependencies defined in composer.json
 RUN rm -fr /app && mkdir /app
-VOLUME ["/app/typo3temp", "/app/uploads", "/app/fileadmin"]
+VOLUME ["/app/typo3temp", "/app/uploads", "/app/fileadmin", "/app/typo3conf"]
 
 ADD AdditionalConfiguration.php /app/typo3conf/
 ADD composer.json /app/
